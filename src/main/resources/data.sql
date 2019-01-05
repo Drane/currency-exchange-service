@@ -1,0 +1,2 @@
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple) VALUES (10001, 'USD', 'EUR', 0.88);
+INSERT INTO exchange_value(id, currency_from, currency_to, conversion_multiple) VALUES (10002, 'EUR', 'USD', 1.14);
